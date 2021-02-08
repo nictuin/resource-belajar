@@ -1,12 +1,17 @@
 # Timeline Project
 <img src="https://github.com/nictuin/resource-belajar/blob/master/timeline_project.png" style="width: 360px; max-width: 100%; height: 480;"/>
 
-# Resource belajar
-kumpulan tutorial atau resources
+# Software requirements for project
+- PHP 7
+- Framework Laravel 7
+- MYSQL
+- Diagrams.net
 
-### Analisa dan Perancangan Sistem
+# Learning Resources
 
-#### Context Diagram dan Data Flow Diagram
+### Analisa dan Perancangan Sistem (system analysis and design)
+
+#### Context Diagram and Data Flow Diagram
 - https://m.youtube.com/watch?v=hw_ydQrwvN0
 - https://kelasprogrammer.com/contoh-dfd-perpustakaan/
 
