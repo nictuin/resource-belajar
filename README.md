@@ -5,7 +5,7 @@
 - PHP 7
 - Framework Laravel 7
 - MYSQL
-- Diagrams.net
+- https://www.diagrams.net/
 
 # Learning Resources
 
@@ -28,7 +28,8 @@
 - https://progate.com/
 
 ### Laravel
-https://www.youtube.com/watch?v=ucV7ynY4M8A&list=PLRKMmwY3-5MxfIKTn_wZ49XlplwHtz1AV
+- https://www.youtube.com/watch?v=ucV7ynY4M8A&list=PLRKMmwY3-5MxfIKTn_wZ49XlplwHtz1AV
+- https://laravel.com/docs/7.x/releases
 
 ### SCRUM
 - https://www.youtube.com/watch?v=BuZyd9ewflQ&list=WL
