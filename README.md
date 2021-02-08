@@ -1,5 +1,5 @@
 # Timeline Project
-<img src="https://github.com/nictuin/resource-belajar/blob/main/timelineproject.png" style="width: 360px; max-width: 100%; height: 480;"/>
+<img src="https://github.com/nictuin/resource-belajar/blob/main/timeline_project.png" style="width: 360px; max-width: 100%; height: 480;"/>
 
 # Resource belajar
 kumpulan tutorial atau resource
