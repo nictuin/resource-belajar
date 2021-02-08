@@ -8,11 +8,11 @@
 - PHP 7
 - Framework Laravel 7 https://laravel.com/docs/7.x/releases
 - MYSQL
-- https://www.diagrams.net/
 
 # Learning Resources
 
 ### Analisa dan Perancangan Sistem (system analysis and design)
+- system analysis and design using this tools https://www.diagrams.net/ and upload the result in shared drives.
 
 #### Context Diagram and Data Flow Diagram
 - https://m.youtube.com/watch?v=hw_ydQrwvN0
