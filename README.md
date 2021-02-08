@@ -2,8 +2,11 @@
 <img src="https://github.com/nictuin/resource-belajar/blob/master/timeline_project.png" style="width: 360px; max-width: 100%; height: 480;"/>
 
 # Software requirements for project
+- HTML & CSS
+- Javascript & Jquery
+- Bootstrap 4 Framework https://getbootstrap.com/docs/4.0/getting-started/introduction/
 - PHP 7
-- Framework Laravel 7
+- Framework Laravel 7 https://laravel.com/docs/7.x/releases
 - MYSQL
 - https://www.diagrams.net/
 
@@ -27,9 +30,8 @@
 - https://buildwithangga.com/
 - https://progate.com/
 
-### Laravel
+### Laravel 7
 - https://www.youtube.com/watch?v=ucV7ynY4M8A&list=PLRKMmwY3-5MxfIKTn_wZ49XlplwHtz1AV
-- https://laravel.com/docs/7.x/releases
 
 ### SCRUM
 - https://www.youtube.com/watch?v=BuZyd9ewflQ&list=WL
