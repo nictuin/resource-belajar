@@ -2,7 +2,7 @@
 <img src="https://github.com/nictuin/resource-belajar/blob/master/timeline_project.png" style="width: 360px; max-width: 100%; height: 480;"/>
 
 # Resource belajar
-kumpulan tutorial atau resource
+kumpulan tutorial atau resources
 
 ### Analisa dan Perancangan Sistem
 
