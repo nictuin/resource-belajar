@@ -32,6 +32,8 @@
 <br>
 <img src="https://github.com/nictuin/resource-belajar/blob/master/button.png" style="width: 360px; height: 480px;"/>
 
+*update lainnya menyusul
+
 -------------------------------------------------------------------------------------------------------------------------------------
 # Learning Resources
 
