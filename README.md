@@ -1,8 +1,8 @@
 # SCRUM PRODUCT DEFINITON
 -------------------------------------------------------------------------------------------------------------------------------------
 ### Tim
-Product Owner --> Dr. Syopiansyah Jaya Putra, M.Sis
-Developer,Designer, System Analysis --> Kelompok masing-masing
+- Product Owner --> Dr. Syopiansyah Jaya Putra, M.Sis
+- Developer,Designer, System Analysis --> Kelompok masing-masing
 
 ### Timeline Project/ Project Milestone
 <img src="https://github.com/nictuin/resource-belajar/blob/master/timeline_project.png" style="width: 360px; max-width: 100%; height: 480;"/>
