@@ -1,7 +1,15 @@
-# Timeline Project
+# SCRUM PRODUCT DEFINITON
+-------------------------------------------------------------------------------------------------------------------------------------
+## Timeline Project/ Project Milestone
 <img src="https://github.com/nictuin/resource-belajar/blob/master/timeline_project.png" style="width: 360px; max-width: 100%; height: 480;"/>
 
-# Software requirements for project
+## DEFINITION OF DONE
+- Seminimal mungkin code yang redundant.
+- Minimal melakukan unit testing.
+- Dokumentasi sistem berdasarkan desain dan analisis sistem yang sudah dibuat.
+*Update lainnya menyusul
+
+## Software requirements for project
 - HTML & CSS
 - Javascript & Jquery
 - Bootstrap 4 Framework https://getbootstrap.com/docs/4.0/getting-started/introduction/
@@ -9,6 +17,10 @@
 - Framework Laravel 7 https://laravel.com/docs/7.x/releases
 - MYSQL
 
+## Style Guide
+
+
+-------------------------------------------------------------------------------------------------------------------------------------
 # Learning Resources
 
 ### Analisa dan Perancangan Sistem (system analysis and design)
