@@ -18,7 +18,13 @@
 - MYSQL
 
 ## Style Guide
-
+Color
+<img src="https://github.com/nictuin/resource-belajar/blob/master/blue.png" style="width: 360px; max-width: 100%; height: 480;"/>
+<img src="https://github.com/nictuin/resource-belajar/blob/master/lightblue.png" style="width: 360px; max-width: 100%; height: 480;"/>
+<img src="https://github.com/nictuin/resource-belajar/blob/master/black.png" style="width: 360px; max-width: 100%; height: 480;"/>
+<img src="https://github.com/nictuin/resource-belajar/blob/master/white.png" style="width: 360px; max-width: 100%; height: 480;"/>
+Button
+<img src="https://github.com/nictuin/resource-belajar/blob/master/button.png" style="width: 360px; max-width: 100%; height: 480;"/>
 
 -------------------------------------------------------------------------------------------------------------------------------------
 # Learning Resources
