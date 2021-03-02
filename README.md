@@ -1,15 +1,19 @@
 # SCRUM PRODUCT DEFINITON
 -------------------------------------------------------------------------------------------------------------------------------------
-## Timeline Project/ Project Milestone
+### Tim
+Product Owner --> Dr. Syopiansyah Jaya Putra, M.Sis
+Developer,Designer, System Analysis --> Kelompok masing-masing
+
+### Timeline Project/ Project Milestone
 <img src="https://github.com/nictuin/resource-belajar/blob/master/timeline_project.png" style="width: 360px; max-width: 100%; height: 480;"/>
 
-## DEFINITION OF DONE
+### DEFINITION OF DONE
 - Seminimal mungkin code yang redundant.
 - Minimal melakukan unit testing.
 - Dokumentasi sistem berdasarkan desain dan analisis sistem yang sudah dibuat.
 *Update lainnya menyusul
 
-## Software requirements for project
+### Software requirements for project
 - HTML & CSS
 - Javascript & Jquery
 - Bootstrap 4 Framework https://getbootstrap.com/docs/4.0/getting-started/introduction/
@@ -17,7 +21,7 @@
 - Framework Laravel 7 https://laravel.com/docs/7.x/releases
 - MYSQL
 
-## Style Guide
+### Style Guide
 - Color
 <br>
 <img src="https://github.com/nictuin/resource-belajar/blob/master/blue.png" style="width: 360px;  height: 480px;"/>
@@ -35,6 +39,24 @@
 *update lainnya menyusul
 
 -------------------------------------------------------------------------------------------------------------------------------------
+
+# Product Backlog
+- Disesuaikan Kelompok masing-masing (termasuk pembuatan user Stories), akan ada tinjauan dari NICT
+
+# Sprint Backlog
+### Sprint Goal
+- Jumlah Sprint --> 2 Sprint (1 Sprint==3 minggu)
+- Goal Sprint I --> menyelesaikan 1 dari 2 sistem yang sudah dtugaskan, misal: Sistem inventory
+- Goal Sprint II --> menyelesaikan sistem sisanya.
+### Sprint Backlog
+- Disesuaikan Kelompok masing-masing, akan ada tinjauan dari NICT
+
+# To Do, In Progress, To Verify, Done
+- Disesuaikan Kelompok masing-masing, akan ada tinjauan dari NICT
+
+# Restropective
+- Tunggu info lebih lanjut
+
 # Learning Resources
 
 ### Analisa dan Perancangan Sistem (system analysis and design)
